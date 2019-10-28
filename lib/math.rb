@@ -13,19 +13,19 @@ end
 def division(num1, num2)
 num1=50
 num2=2 
-puts num1/num2
+p num1/num2
 end
 
 def multiplication(num1, num2)
 num1=4
 num2=30
-puts sum = num1*num2
+p sum = num1*num2
 end
 
 def modulo(num1, num2)
   num1=34
   num2=5
-  puts num1%num2
+  p num1%num2
 
 end
 
