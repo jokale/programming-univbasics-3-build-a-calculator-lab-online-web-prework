@@ -31,7 +31,7 @@ end
 
 def square_root(num)
   num = 81
-  p sqrt(num)
+  p Math.sqrt(num)
   
 
 end
